@@ -1,6 +1,6 @@
 # Perl-Tk-MySQL-Programming
 
-Tiny Perl application on how to extract tablespace info, to provide few network details &  to edit files.
+Tiny Perl application on how to extract tablespace info, to provide few network details &  to edit files, that I crafted some years ago. 
 
 Database southwind, with its tablespace products is used for this example:
 
